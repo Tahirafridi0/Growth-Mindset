@@ -28,7 +28,7 @@ else:
     if reflection:
         st.success(f"Great Insight! Your reflection:{reflection}")
     else:
-        st.imfo("Reflecting on past experience help your goal share your difficulties")
+        st.info("Reflecting on past experience help your goal share your difficulties")
 
         #acchievement
 
